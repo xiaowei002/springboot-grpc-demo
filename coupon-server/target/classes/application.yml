@@ -1,0 +1,8 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: coupon-server
+grpc:
+  server:
+    port: 8071
